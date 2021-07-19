@@ -855,7 +855,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"With this card you will have everything you need to organize a webinar with several conferences simultaneously. Your guests will also have many spaces to chat quietly and they can even enjoy the quality of the air and bring back one or two fish for dinner!"
+         "value":"Suitable up to 300 users.\n\nCounting with several jitsi instances spread out throughout the map, four main big rooms for hosting workshops for several users and a garden for your chillout sessions, this is the map you are looking for when you have a populated event and need everyone to be able to meet in a simple yet efficient way."
         }, 
         {
          "name":"mapImage",
@@ -878,7 +878,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.7.1",
  "tileheight":32,
  "tilesets":[
         {
