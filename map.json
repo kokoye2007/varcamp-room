@@ -217,7 +217,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/play.workadventu.re\/@\/varcamp\/2022\/corner\/#entry-one"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -337,7 +337,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/var.camp\/topicboard"
+                 "value":"https:\/\/var.camp\/topicboard\/"
                 }],
          "type":"tilelayer",
          "visible":true,
