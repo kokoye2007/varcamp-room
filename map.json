@@ -265,7 +265,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -352,7 +352,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -439,7 +439,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -526,7 +526,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -613,7 +613,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -700,7 +700,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -787,7 +787,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -874,7 +874,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -961,7 +961,7 @@
                  "value":"{{{ exitSouthURL }}}"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -1135,7 +1135,7 @@
                  "value":"https:\/\/play.workadventu.re\/@\/varcamp\/2022\/vol"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -1222,7 +1222,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -1309,7 +1309,7 @@
                  "value":"https:\/\/play.workadventu.re\/@\/varcamp\/2022\/corner#entry-one"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -1396,7 +1396,7 @@
                  "value":"https:\/\/play.workadventu.re\/@\/varcamp\/2022\/vr"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -3555,7 +3555,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
