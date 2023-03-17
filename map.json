@@ -1813,7 +1813,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/agwri.github.io\/varcamp\/"
+                         "value":"https:\/\/var.camp\/topic-schedule\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1900,7 +1900,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/var.camp\/taungoo\/"
+                         "value":"https:\/\/var.camp\/taungoo-room\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1987,7 +1987,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/var.camp\/pyay"
+                         "value":"https:\/\/var.camp\/pyay-room\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2074,7 +2074,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/var.camp\/taunggyi"
+                         "value":"https:\/\/var.camp\/taunggyi-room\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2161,7 +2161,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/var.camp\/pakokku"
+                         "value":"https:\/\/var.camp\/pakokku-room\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2248,7 +2248,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/var.camp\/mogok"
+                         "value":"https:\/\/var.camp\/mogok-room\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2335,7 +2335,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/var.camp\/mandalay"
+                         "value":"https:\/\/var.camp\/mandalay-room\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2422,7 +2422,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/var.camp\/yangon"
+                         "value":"https:\/\/var.camp\/yangon-room\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2509,7 +2509,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/var.camp\/pathein"
+                         "value":"https:\/\/var.camp\/pathein-room\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
