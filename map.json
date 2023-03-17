@@ -2698,7 +2698,7 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker, vol23"
+                         "value":"speaker,vol23"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -3203,7 +3203,7 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker, vol23"
+                         "value":"speaker,vol23"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -3514,7 +3514,7 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker, vol23"
+                         "value":"speaker,vol23"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -3616,7 +3616,7 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker, vol23"
+                         "value":"speaker,vol23"
                         }],
                  "type":"tilelayer",
                  "visible":true,
