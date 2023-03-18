@@ -1325,7 +1325,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"@\/varcamp\/2022\/vol\/#start"
+                         "value":"@\/varcamp\/2022\/vol\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1499,7 +1499,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/varcamp\/2022\/corner\/#north"
+                         "value":"@\/varcamp\/2022\/corner\/#north"
                         }],
                  "type":"tilelayer",
                  "visible":true,
