@@ -1499,7 +1499,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/varcamp\/2022\/vr\/#entry-webinar"
+                         "value":"https:\/\/play.workadventu.re\/@\/varcamp\/2022\/vr\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
