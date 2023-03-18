@@ -1325,7 +1325,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/varcamp\/2022\/corner\/#south"
+                         "value":"\/@\/varcamp\/2022\/corner#south"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1412,7 +1412,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/varcamp\/2022\/corner\/#north"
+                         "value":"\/@\/varcamp\/2022\/corner#north"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1499,7 +1499,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/varcamp\/2022\/vr\/"
+                         "value":"\/@\/varcamp\/2022\/vr#entry-webinar"
                         }],
                  "type":"tilelayer",
                  "visible":true,
