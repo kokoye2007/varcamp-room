@@ -97,7 +97,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -1413,7 +1413,7 @@
          "name":"Entry",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -1589,7 +1589,7 @@
                          "value":"\/@\/varcamp\/2022\/fa-ship#west"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":119,
                  "x":0,
                  "y":0
@@ -1676,7 +1676,7 @@
                          "value":"\/@\/varcamp\/2022\/corner#south"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":119,
                  "x":0,
                  "y":0
@@ -1763,7 +1763,7 @@
                          "value":"\/@\/varcamp\/2022\/corner#north"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":119,
                  "x":0,
                  "y":0
@@ -1850,7 +1850,7 @@
                          "value":"\/@\/varcamp\/2022\/vr#entry-webinar"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":119,
                  "x":0,
                  "y":0
@@ -1944,7 +1944,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -2025,7 +2025,7 @@
          "name":"collisions",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -2819,7 +2819,7 @@
          "name":"TOPIC",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -2905,7 +2905,7 @@
                  "value":"https:\/\/chat.csml.dev\/s\/evk8eh2785fnihwdtnetcb7mjur9zcgi"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -3926,7 +3926,7 @@
          "name":"jitsi",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -4006,7 +4006,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -4087,7 +4087,7 @@
          "name":"walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -4168,7 +4168,7 @@
          "name":"belowFurnitures2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -4249,7 +4249,7 @@
          "name":"belowFurnitures1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -4330,7 +4330,7 @@
          "name":"furnitures",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -4411,7 +4411,7 @@
          "name":"aboveFurnitures2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -4492,7 +4492,7 @@
          "name":"aboveFurnitures1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -4526,7 +4526,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -4613,7 +4613,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -4693,7 +4693,7 @@
          "name":"abovePlayer1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
@@ -4774,7 +4774,7 @@
          "name":"abovePlayer2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":119,
          "x":0,
          "y":0
